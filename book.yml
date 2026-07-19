@@ -1,0 +1,9 @@
+title: "n8n for Engineers"
+subtitle: "An Automation Systems Engineering Handbook"
+volume: 1
+volume_title: "Foundations"
+edition: "First Edition"
+version: "0.2.0"
+language: "en-US"
+repository: "https://github.com/bonin/n8n-for-engineers"
+status: "in-development"
